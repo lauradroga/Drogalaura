@@ -42,7 +42,7 @@
         }
         .button {
             display: block;
-            width: 300px;
+            width: 350px;
             height: 40px;
             color: white;
             text-align: center;
@@ -50,7 +50,7 @@
             font-size: 15px;
             text-decoration: none;
             border-radius: 5px;
-            margin-top: 5px;
+            margin-bottom: 40px;
             background-color: #25d366;
 			text-align: left;
 			padding-left: 50px;
