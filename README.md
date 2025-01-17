@@ -14,7 +14,7 @@
         }
         header {
             background-color: #c40101;
-            padding: 20px;
+            padding: 15px;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -46,14 +46,14 @@
             height: 40px;
             color: white;
             text-align: center;
-            line-height: 50px;
+            line-height: 40px;
             font-size: 15px;
             text-decoration: none;
             border-radius: 5px;
             margin-bottom: 40px;
             background-color: #25d366;
 			text-align: left;
-			padding-left: 50px;
+			padding-left: 75px;
 			margin-left: 10px
         }
         .button:hover {
