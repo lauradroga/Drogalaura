@@ -38,7 +38,7 @@
             max-width: 100%;
             height: auto;
 			margin-bottom: 10px;
-			margin-left: 40px;
+			margin-left: 20px;
         }
         .button {
             display: block;
@@ -54,7 +54,7 @@
             background-color: #25d366;
 			text-align: left;
 			padding-left: 50px;
-			margin-left: 40px
+			margin-left: 20px
         }
         .button:hover {
             background-color: #128c7e;
@@ -111,7 +111,7 @@
     <div class="container">
         <div class="left-column">
             <div class="image-container">
-                <img src="https://uploaddeimagens.com.br/images/004/883/634/original/img3.jpeg?1737145367" width="300" height="300" alt="Imagem da Farmácia">
+                <img src="https://uploaddeimagens.com.br/images/004/883/634/original/img3.jpeg?1737145367" width="300" height="200" alt="Imagem da Farmácia">
                 <!-- Botão adicionado após a imagem -->
                 <a href="https://wa.me/558288215583" class="button" target="_blank">Fale conosco no WhatsApp</a>
             </div>
