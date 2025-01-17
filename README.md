@@ -111,7 +111,7 @@
     <div class="container">
         <div class="left-column">
             <div class="image-container">
-                <img src="https://uploaddeimagens.com.br/images/004/883/634/original/img3.jpeg?1737145367" width="3500" height="200" alt="Imagem da Farmácia">
+                <img src="https://uploaddeimagens.com.br/images/004/883/634/original/img3.jpeg?1737145367" width="350" height="200" alt="Imagem da Farmácia">
                 <!-- Botão adicionado após a imagem -->
                 <a href="https://wa.me/558288215583" class="button" target="_blank">Fale conosco no WhatsApp</a>
             </div>
@@ -121,7 +121,7 @@
                 <p>VISITE NOSSA LOJA:</p>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31476.235280010384!2d-35.793302999999995!3d-9.549549500000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x70149ed9312dd4b%3A0x809092066d202eb1!2sDROGA%20LAURA!5e0!3m2!1sen!2sbr!4v1737116209223!5m2!1sen!2sbr" 
                     width="500" 
-                    height="500" 
+                    height="450" 
                     style="border:0;" 
                     allowfullscreen="" 
                     loading="lazy" 
