@@ -43,11 +43,11 @@
         .button {
             display: block;
             width: 300px;
-            height: 50px;
+            height: 40px;
             color: white;
             text-align: center;
             line-height: 50px;
-            font-size: 18px;
+            font-size: 15px;
             text-decoration: none;
             border-radius: 5px;
             margin-top: 5px;
